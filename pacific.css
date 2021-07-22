@@ -311,7 +311,7 @@ textarea {
 #content ul li {
 	padding-left: 20px;
 	background-position: 0 3px;
-	background-image: url(./marker.gif);
+	background-image: url("marker.gif");
 	background-repeat: no-repeat;
 	list-style: none;
 }
